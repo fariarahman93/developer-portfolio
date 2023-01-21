@@ -118,3 +118,44 @@ box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
 border-radius: 5px;
 padding: 30px;
 }
+.resume-title{
+    margin-bottom: 30px;
+    margin-top: 113px;
+}
+.resume-content{
+    display: flex;
+}
+.resume-item .title{
+    color:#474747;
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 10px;
+  
+
+}
+.resume-item .subtitle{
+    color:#757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+.resume-item .description{
+    color:#757575;
+    font-size: 16px;
+    font-weight: 400;
+   
+
+}
+.resume .section-title{
+    margin-bottom: 113px;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume-button{
+    margin-top: 50px;
+    text-align: center;  
+
+}
